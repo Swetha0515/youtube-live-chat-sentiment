@@ -71,8 +71,5 @@ If no comments are found, it will print "No comments found." If the maximum dura
 
 ## Author
 
-[Your Name/GitHub Username]
+Swetha0515
 
-## License
-
-[Your License (Optional)]
